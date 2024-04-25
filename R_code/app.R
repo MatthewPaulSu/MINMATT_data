@@ -17,7 +17,6 @@ library(openxlsx)
 library(plotly)
 library(htmltools)
 library(data.table)
-library(stringr)
 
 df_swarm1 <- read.csv("https://raw.githubusercontent.com//MatthewPaulSu/MINMATT_data/main/data/Literature_database_Swarm.csv")
 df_WBF1 <- read.csv("https://raw.githubusercontent.com//MatthewPaulSu/MINMATT_data/main/data/Literature_database_Wing_Beat_Frequency.csv")
